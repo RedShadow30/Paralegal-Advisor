@@ -1,0 +1,242 @@
+[
+    {
+        "context": "investigating three people suspected conspiring destroy government property bombing central intelligence agency office officials used electronic surveillance record suspects conversations wiretapping conducted without search warrant",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did central intelligence agency office officials use?",
+                "answers": [
+                    {
+                        "text": "electronic surveillance record suspects conversations wiretapping",
+                        "answer_start": 134
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "virginia legislature reapportioned plan house representatives provided representatives districts house member representing average constituentswith variance largest smallest percent compared ideal percent henry howell challenged plan unconstitutional population deviations large satisfy principle one person one vote case decided together city virginia beach v howell weinberg v prichard",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did house representative provide?",
+                "answers": [
+                    {
+                        "text": "representatives districts house member",
+                        "answer_start": 71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "receiving reports type sexual activity occurring premises licensed liquor sellers california department alcoholic beverage control promulgated series regulations pertaining conduct licensed premises appellees group holders various liquor licenses sought discretionary review new regulations district court held regulations unconstitutionally limited freedom expression",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did group holders of various liquor licenses seek?",
+                "answers": [
+                    {
+                        "text": "discretionary review new regulations",
+                        "answer_start": 254
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "schick master sergeant army convicted murder military court sentenced death president eisenhower intervened commuted sentence reducing life imprisonment without parole",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was schick master sergeant army convicted murder military sentenced?",
+                "answers": [
+                    {
+                        "text": "death",
+                        "answer_start": 70
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "mitch miller charged carrying alcohol distilling equipment whiskey liquor tax paid bureau alcohol tobacco firearms atf issued subpoenas two millers banks citizens amp southern national bank warner robins bank byron requesting records millers accounts banks complied subpoenas evidence used millers trial united states district court middle district georgia miller convicted appealed conviction alleging fourth amendment rights violated united states court appeals fifth circuit ruled favor",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is mitch miller charged with carrying?",
+                "answers": [
+                    {
+                        "text": "alcohol distilling equipment whiskey liquor",
+                        "answer_start": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "paul lewis hayes charged forgery offense carried twototenyear prison sentence plea negotiations prosecutor offered pursue five year sentence hayes would plead guilty however prosecutor also stated would seek indictment kentucky habitual crime act defendant register plea hayes two prior felony convictions record found guilty law hayes would imprisoned life hayes plead guilty prosecutor followed promise",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was paul lewis hayes charged?",
+                "answers": [
+                    {
+                        "text": "forgery offense",
+                        "answer_start": 25
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "allan bakke thirtyfiveyearold white man twice applied admission university california medical school davis rejected times school reserved sixteen places entering class one hundred qualified minorities part universitys affirmative action program effort redress longstanding unfair minority exclusions medical profession bakkes qualifications college gpa test scores exceeded minority students admitted two years bakkes applications rejected bakke contended first california courts supreme court excluded admission solely basis race",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did california supreme court exclude?",
+                "answers": [
+                    {
+                        "text": "california courts supreme court excluded admission solely basis race",
+                        "answer_start": 462
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "georgia state court convicted johnny wilson violating state statute statute provided person shall without provocation use another presence opprobrious words abusive language tending cause breach peace shall guilty misdemeanor appeal mr wilson argued statute violated first fourteenth amendments georgia supreme court rejected argument mr wilson successfully sought habeas corpus relief georgia federal district court us court appeals fifth circuit affirmed",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "On what grounds did Johnny Wilson challenge his conviction under the Georgia state statute?",
+                "answers": [
+                    {
+                        "text": "mr wilson argued statute violated first fourteenth amendments",
+                        "answer_start": 233
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "july intruders beat elderly couple death christian county kentucky shortly afterward police arrested silas manning willie barker crime indicted september assigned counsel september barkers trial scheduled begin september state believed stronger case manning mannings testimony would essential convict barker state obtained series continuances barkers trial manning tried five times finally convicted beginning june barker prison bail contest continuances barkers trial set march state requested continuances barker unsuccessfully objected trial beginning october barker convicted kentucky court appeals affirmed conviction barker sought habeas corpus relief district court arguing long trial delay violated right speedy trial district court denied court appeals sixth circuit affirmed judgment district court",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was Willie Barker's argument in seeking habeas corpus relief?",
+                "answers": [
+                    {
+                        "text": "barker sought habeas corpus relief district court arguing long trial delay violated right speedy trial",
+                        "answer_start": 623
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "albany georgia theater manager convicted georgia obscenity law showed critically acclaimed film carnal knowledge film explored social conceptions sexuality starred jack nicholson ann margaret",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Why was the Albany Georgia theater manager convicted?",
+                "answers": [
+                    {
+                        "text": "georgia obscenity law",
+                        "answer_start": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "police officer pulled arrested robinson operating automobile without valid permit officer frisked robinson discovered crumpled cigarette package containing fourteen vials heroin pocket",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Why was Robinson arrested?",
+                "answers": [
+                    {
+                        "text": "operating automobile without valid permit",
+                        "answer_start": 40
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "respondents alleged section new york welfare statute unconstitutional conflicted social security act new york statute required recipients cooperate support action missing parent would receive benefits social security act contained requirement threejudge district court northern district new york agreed ruled favor respondents supreme court heard case direct appeal",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did respondents allege section new york welfare statute?",
+                "answers": [
+                    {
+                        "text": "unconstitutional conflicted social security act",
+                        "answer_start": 53
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "five consolidated cases involving motor carriers filed certificates interstate commerce commission icc order conduct business southwestern southeastern united states icc rejected three applications bowman transportation inc one approved applicants asked authority initially set application icc granted authority competing motor carriers sued us district court western district arkansas annul certificate district court found iccs actions arbitrary capricious court voided certificates permanently enjoined icc issuing supreme court heard case direct appeal",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did the U.S. District Court for the Western District of Arkansas conclude about the ICC's actions?",
+                "answers": [
+                    {
+                        "text": "arbitrary capricious court voided certificates permanently enjoined icc issuing",
+                        "answer_start": 438
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "august ralph feola along enriquito alsondo henry rosa michael farr planned sell kilo powdered sugar place heroin customers unbeknownst undercover cops sale go well four planned attack buyers take money agent hall agent lightcap posed customers deal progress found attack countered attack feola alsondo rosa farr arrested conspiracy assault assaulting federal agents commission duties trial district court jury instructions specified knowledge agents true identities necessary element prove conspiracy charge respondents appealed united states court appeals second circuit affirmed conviction assault charges reversed conviction conspiracy charges",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did the United States Court of Appeals for the Second Circuit decide regarding the conspiracy charges?",
+                "answers": [
+                    {
+                        "text": "reversed conviction conspiracy charges",
+                        "answer_start": 608
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "texas law permitted public school districts deny tuitionfree admission minors living apart parents primary purpose living district attend school free charge roberto morales left family mexico live sister oralia martinez texas school district denied morales application free admission martinez challenged law court",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did Texas law permitting public school districts deny?",
+                "answers": [
+                    {
+                        "text": "tuitionfree admission",
+                        "answer_start": 49
+                    }
+                ]
+            }
+        ]
+    }
+]
