@@ -31,6 +31,11 @@ Statistical Models Used: Decision Tree and Random Forest
 - Most to all of the cases were labelled with Negative for sentiment analysis.
 - It was difficult for the IMDB trained transformers to conclude the case sentiment based on the words in the case text. This was due the high usage of negative words in the text. 
 
+#### TF-IDF
+
+![TF_IDF](images/tfidf.png)
+
+
 #### Question Answering:
 BERT
 
@@ -48,8 +53,8 @@ RoBERTa
 
 DistilBERT
 
-![DistilBERT SA Results](images/image-3.png)
+![DistilBERT SA Results](images/db-sa.png)
 
 BERT
 
-![BERT SA Results](images/image-4.png)
+![BERT SA Results](images/bertsa.png)
