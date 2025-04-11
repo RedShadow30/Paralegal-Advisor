@@ -1,0 +1,453 @@
+[
+    {
+        "context": "percy green black civil rights activist mechanic working mcdonnell douglas corporation st louisbased aerospace aircraft manufacturer august laid green protested discharge saying companys hiring firing practices racially motivated part protest members congress racial equality illegally parked cars block main roads plant morning shift change july lockin workers unable leave though extent greens involvement incident unclear july mcdonnell douglas corporation advertised qualified mechanics green reapplied turned due involvement protests green filed petition equal employment opportunity commission eeoc alleged denied position race civil rights activism commission make finding racial bias charge conclude green denied job upon reapplication due involvement civil rights protests situation could resolved outside courts green sued mcdonnell douglas corporation district court dismissed racial discrimination charge held mcdonnell douglas corporation refused rehire green participation illegal demonstrations rather legitimate civil rights issues us court appeals eighth circuit affirmed holding illegal protests protected activities remanded case reconsider racial discrimination charge",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Who is Percy Green?",
+                "answers": [
+                    {
+                        "text": "percy green black civil rights activist",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "Why Percy Green protest discharge McDonnell Douglas Corporation?",
+                "answers": [
+                    {
+                        "text": "green protested discharge saying companys hiring firing practices racially motivated",
+                        "answer_start": 145
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What action did McDonnell Douglas Corporation take?",
+                "answers": [
+                    {
+                        "text": "mcdonnell douglas corporation advertised qualified mechanics green reapplied turned due involvement protests",
+                        "answer_start": 430
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What outcome Percy Green petition Equal Employment Opportunity Commission (EEOC)?",
+                "answers": [
+                    {
+                        "text": "green filed petition equal employment opportunity commission eeoc alleged denied position race civil rights activism",
+                        "answer_start": 539
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "How district court rule Percy Green lawsuit McDonnell Douglas Corporation?",
+                "answers": [
+                    {
+                        "text": "district court dismissed racial discrimination charge held mcdonnell douglas corporation refused rehire green participation illegal demonstrations rather legitimate civil rights issues",
+                        "answer_start": 863
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "federal grand jury questioned john p calandra connection loan sharking activities questions based evidence obtained search calandras business royal machine tool company calandra refused answer questions arguing search royal machine unlawfully violated fourth amendment government attempted grant calandra immunity district court asked court suppress evidence obtained search district court granted suppression order us court appeals sixth circuit affirmed holding fourth amendment exclusionary rule applied exclusionary rule evidence obtained unlawful search seizure used victim search criminal proceeding",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What connection did the federal grand jury question John P. Calandra about?",
+                "answers": [
+                    {
+                        "text": "loan sharking activities",
+                        "answer_start": 57
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What was obtained from exclusionary rule evidence?",
+                "answers": [
+                    {
+                        "text": "exclusionary rule evidence obtained unlawful search seizure used victim search criminal proceeding",
+                        "answer_start": 507
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What did Calandra refuse to answer questions about?",
+                "answers": [
+                    {
+                        "text": "search royal machine unlawfully violated fourth amendment",
+                        "answer_start": 211
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What did government attempt after violation of fourth amendment?",
+                "answers": [
+                    {
+                        "text": "attempted grant calandra immunity",
+                        "answer_start": 280
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What did the district court ask the court to do regarding the evidence obtained from the search?",
+                "answers": [
+                    {
+                        "text": "suppress evidence obtained search",
+                        "answer_start": 341
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "federal government sued several corporations rigging prices concrete steel pipes violation sherman act case reached final judgment may parties agreed terms prevented companies engaging future violations antitrust laws eleven days short one year agreement state utah behalf several agencies local governments filed class action lawsuit corporations lawsuit claimed corporations previous price fixing schemes directly injured state plaintiffs six months later corporations successfully argued federal rules civil procedure lawsuit could maintained class action impractical plaintiffs individual representation eight days following ruling towns municipalities water districts within state utah immediately filed motions intervene lawsuit court denied motions failed argue within oneyear time statute limitations required federal law court appeals ninth circuit reversed first court held filing lawsuit class action claims adequately trial court statute limitations reached however judge dismissed class action statute limitations ran parties unable refile claims corporations court held trial judge could leave plaintiffs without recourse time file lawsuit passed instead plaintiffs eleven days remained statute limitations initial lawsuit filed order intervene otherwise file individual claims corporations appealed",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Why did federal government sue several corporations?",
+                "answers": [
+                    {
+                        "text": "rigging prices concrete steel pipes violation sherman",
+                        "answer_start": 45
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "joseph anthony davis classified ia draft board ordered report physical examination failed report several times draft board declared delinquent issued order inducted armed forces cfr section draftee could ordered report induction deemed acceptable service physical examination board mailed statement status three weeks notice statute provided exception draftees declared delinquent accelerating process davis convicted united states district court central district california failures report appealed united states court appeals ninth circuit case pending supreme court decided gutknecht v united states gutknecht involved similar situation draftees induction accelerated delinquent status supreme court declared gutknechts conviction invalid ninth circuit remanded case district court held davis case impacted gutknecht ruling affirmed ninth circuit davis petitioned certiorari process ninth circuit ruled united states v fox fox involved situation similar davis foxs conviction reversed ninth circuit meanwhile davis petition certiorari denied supreme court began serving prison sentence davis challenged conviction usc section davis asserted process conviction ninth circuits ruling fox changed law district court ruled ninth circuit affirmed ground already ruled issue davis appealed supreme court",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did supreme court declare gutknechts?",
+                "answers": [
+                    {
+                        "text": "conviction invalid",
+                        "answer_start": 723
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "michelin tire corporation mtc operated warehouse gwinnett county georgia products imported france nova scotia stored later distribution county levied nondiscriminatory ad valorem property tax goods percent propertys value mtc claimed contents warehouse constitutionally free state taxation original containers county declared products subject tax sorted arranged sale",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did distribution country levy?",
+                "answers": [
+                    {
+                        "text": "nondiscriminatory ad valorem property tax goods",
+                        "answer_start": 150
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "effort investigate administration operation enforcement internal security act senate subcommittee internal security subpoenaed bank financial records united states servicemens fund nonprofit organization actively published newsletters sponsored coffeehouses discussions critical vietnam war took place fund challenged subpoena arguing enforcement would violate organizations first amendment rights since bank records contained information funds membership",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is effort investigate administration operation enforcement internal security about?",
+                "answers": [
+                    {
+                        "text": "administration operation enforcement internal security act senate subcommittee",
+                        "answer_start": 19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "fbi officer read willie thomas butler rights miranda v arizona arresting federal warrant butlers interrogation officer gave butler advice rights form asked sign indicate understood rights butler refused sign waiver portion form indicated would like talk officer butler ask attorney butler proceeded make incriminating statements introduced evidence trial butler moved suppress evidence trial court denied motion court held butler effectively waived right attorney spoke fbi officer indicating understood rights jury found butler guilty kidnapping armed robbery felonious assault appeal supreme court north carolina reversed convictions ordered new trial holding statements made interrogation admissible without express waiver rights",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did the Supreme Court of North Carolina rule regarding Butler's statements made during interrogation?",
+                "answers": [
+                    {
+                        "text": "reversed convictions ordered new trial holding statements made interrogation admissible without express waiver rights",
+                        "answer_start": 615
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "series mistrials murder case state virginia trial judge closed trial public media defense counsel brought closure motion prosecution object two reporters richmond newspapers inc challenged judges action",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Who challenged the trial judge's decision to close the trial to public and media?",
+                "answers": [
+                    {
+                        "text": "two reporters richmond newspapers inc challenged judges action",
+                        "answer_start": 140
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "january randal rush jeffrey savchuk involved singlecar crash outside elkhart indiana passenger savchuk injured crash june savchuk moved minnesota parents sued rush minnesota district court attempted obtain quasi rem jurisdiction based fact state farm agency insured rushs car operates minnesota rush state farm moved dismiss trial court denied petition allowed savchuk proceed minnesota supreme court affirmed rush appealed case supreme court vacated judgment remanded case reconsideration minnesota supreme court found favor savchuk",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was the final decision of the Minnesota Supreme Court after the case was remanded by the U.S. Supreme Court?",
+                "answers": [
+                    {
+                        "text": "minnesota supreme court found favor savchuk",
+                        "answer_start": 490
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "three consolidated cases jasper f williams eugene f diamond doctors perform medically necessary abortions welfare rights organization jane doe woman poverty needed abortion medical reasons save life brought class action suit director illinois department public aid federal district court appellants challenged illinois statute prohibited state medical assistance paying abortions necessary save life mother appellants alleged medicaid act required state cover cost medically necessary abortions also alleged denial funding certain abortions violation fourteenth amendments guarantee equal protection initially district court refused consider case state courts reached decision statute united states court appeals seventh circuit reversed decision remanded case district court consideration merits district court held medicaid act required state provide funding medically necessary abortions district court also held hyde amendment prohibits use federal funds certain abortions exempt state fulfilling medicaid requirements court appeals reversed decision held hyde amendment allows state limit funding type abortions amendment specifies case remanded district court instructions consider constitutional issues district court held illinois statute hyde amendment unconstitutional",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was the main legal challenge brought by the appellants in the case against the Illinois Department of Public Aid?",
+                "answers": [
+                    {
+                        "text": "appellants challenged illinois statute prohibited state medical assistance paying abortions necessary save life mother",
+                        "answer_start": 288
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "giles lugar leased truckstop edmondson oil co fell behind rent payments edmondson issued suit virginia state court failing repay debt court reached decision issued writ attachment lugar disabled selling property owned case open since edmondson wanted property collateral case could repay debt state trial judge cancelled writ attachment one month later finding statutory justification issuance lugar claimed edmondson worked government deprive property without due process law guaranteed fourteenth amendment said caused financial loss sought recover damages edmondson district court usc section code provides rewards rights violated state action district court rejected lugars claim deemed state action occurred review united states court appeals fourth circuit rejected using solely state action validate section suits claimed certain instances private parties acted color state law also validated section suits however fourth circuit found none actions occurred lugars case rejected suit",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What was Giles Lugar's claim against Edmondson Oil Co. regarding the writ of attachment?",
+                "answers": [
+                    {
+                        "text": "giles lugar leased truckstop edmondson oil co fell behind rent payments edmondson issued",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "california law dictated additional nuclear power plants could built state energy commission determine would adequate storage capacity spent fuel rods two utility companies challenged law arguing provisions preempted federal atomic energy act",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did California law dictated regarding additional nuclear power plants?",
+                "answers": [
+                    {
+                        "text": "california law dictated additional nuclear power plants could built state energy commission",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What was the basis of the utility companies' challenge to the California law restricting the construction of nuclear power plants?",
+                "answers": [
+                    {
+                        "text": "two utility companies challenged law arguing provisions preempted federal atomic energy act",
+                        "answer_start": 150
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "september packages containing boxes films depicting homosexual activities shipped st petersburg florida atlanta georgia though addressed leggs inc boxes mistakenly delivered address leggs products inc employees leggs products opened boxes found boxes films contained suggestive drawings one side descriptions one employees opened one boxes films unsuccessfully attempted view portions film fbi became involved october without making effort obtain warrant projected viewed films april william walter arthur randall sanders jr gulf coast news agency inc indicted obscenity charges relating interstate transportation boxes films petitioners filed motion suppress use films evidence motion denied petitioners convicted us court appeals fifth circuit affirmed",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did the films contain?",
+                "answers": [
+                    {
+                        "text": "contained suggestive drawings one side descriptions",
+                        "answer_start": 257
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "january police arrested herschel roberts lake county ohio roberts charged forgery check name bernard isaacs possessing stolen credit cards belonging amy isaacs preliminary hearing january roberts lawyer called isaacs daughter anita witness testify knew roberts allowed use apartment away attorney attempted elicit testimony anita gave roberts checks credit cards without telling permission ms isaacs would admit actions roberts attorney ask court declare hostile witness place crossexamination ms isaacs failed respond five subpoenas appear roberts subsequent criminal trial state entered transcript earlier testimony evidence allowed ohio statute convicted trial court roberts appealed grounds admission prior testimony violated confrontation clause sixth amendment ohio court appeals reversed conviction ohio supreme court affirmed",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did Anita give Herschel Roberts without permission?",
+                "answers": [
+                    {
+                        "text": "checks credit cards without telling permission ms isaacs",
+                        "answer_start": 343
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "march illinois circuit court judge authorized warrant search premises aurora tap tavern person bartender greg heroin drug paraphernalia based information illinois bureau investigation obtained informant officers arrived conduct search also conducted cursory pat weapons patrons bar pursuant illinois state statute allows officers search persons premises execution valid search warrant pat officer found retrieved cigarette pouch pocket one patrons ventura ybarra contained tin foil packets substance later confirmed heroin ybarra subsequently indicted possession controlled substance filed pretrial motion suppress evidence contraband seized person search bar trial court denied motion ybarra found guilty appeal illinois court appeals upheld constitutionality statute applied facts case obvious connection ybarra premises searched illinois supreme court denied ybarras petition appeal",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did the officer find after the search warrant pat?",
+                "answers": [
+                    {
+                        "text": "cigarette pouch pocket one patrons ventura ybarra contained tin foil packets substance later confirmed heroin",
+                        "answer_start": 413
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "april sixteenyearold monty lee eddings several friends ran away home leaving eddings took three fathers firearms including gauge shotgun shortened barrel reaching turner turnpike near tulsa group stopped howard johnson restaurant leaving eddings lost control car briefly sending curb ditch regaining control witness observed informed officer oklahoma highway patrol patrolman larry crabtree followed car pulled crabtree within six feet car eddings stuck shotgun window fired killing crabtree immediately drove car away trial defense presented evidence circumstances mitigating eddings guilt including details extensive juvenile record missouri eddings parents divorced five shuffled mothers house fathers house also spent time group home witnesses testified eddings emotionally disturbed level several years age terms mental emotional development state psychologist testified eddings sociopathic antisocial personality disorder state provided evidence aggravating circumstances oklahoma alleged murder especially heinous atrocious cruel crime committed avoid lawful arrest probability defendant would commit criminal acts violence constituting threat society trial judge found state proved three aggravating circumstances beyond reasonable doubt judge also found eddings age mitigating factor great weight would consider evidence eddings violent background judge found aggravating circumstances proven state outweighed fact eddings age sentenced death court criminal appeals oklahoma affirmed sentence also holding eddings death penalty sentence constitute cruel unusual punishment eighth fourteenth amendments",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "How many firearms Monty Lee Eddings take from their father?",
+                "answers": [
+                    {
+                        "text": "eddings took three fathers firearms including gauge shotgun shortened barrel",
+                        "answer_start": 77
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What was the specific firearm that Monty Eddings took from his father?",
+                "answers": [
+                    {
+                        "text": "gauge shotgun shortened barrel",
+                        "answer_start": 123
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What did the state psychologist testify?",
+                "answers": [
+                    {
+                        "text": "eddings sociopathic antisocial personality disorder",
+                        "answer_start": 876
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What was Eddings sentenced?",
+                "answers": [
+                    {
+                        "text": "death",
+                        "answer_start": 1446
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "How many aggravating circumstances did the judge find?",
+                "answers": [
+                    {
+                        "text": "three aggravating circumstances",
+                        "answer_start": 1190
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "representative puerto ricos popular democratic party party died office searching replacement governor puerto rico held byelection open candidates parties party challenged governor alleging puerto rico statutes candidates electors affiliated party could participate byelection appeal superior court judgment favoring party puerto ricos supreme court modified judgment holding byelection required party legislator vacating seat fails name replacement within days puerto ricos supreme court could deliver decision party held election open members pursuant supreme courts mandate swore new representative rodriguez appealed supreme court granted certiorari",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Who did the Supreme Court swear in?",
+                "answers": [
+                    {
+                        "text": "new representative rodriguez",
+                        "answer_start": 582
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "complete auto transit michigan corporation business mississippi complete shipped cars state distributed sale mississippi imposed tax transportation companies privilege business state tax applied equally businesses involved intraand interstate commerce",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What did Mississippi impose on transportation companies?",
+                "answers": [
+                    {
+                        "text": "tax",
+                        "answer_start": 129
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "section illinois probate act allowing legitimate children inherit intestate succession either mothers fathers allowed illegitimate children inherit intestate succession mothers consequently deta trimble illegitimate daughter sherman gordon unable inherit fathers estate died intestate losing challenge section illinois supreme court trimble appealed supreme courtminnesota adopted legislation required private employers pay fee terminated employee pension plans moved offices state leaving insufficient funds cover pensions tenyear employees law affected allied structural steel company began closing offices minnesota even though employees affected closing entitled pensions terms employment company according minnesota law company ordered pay approximately comply statutes provisions",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What does section illinois probate act allow for legitimate children?",
+                "answers": [
+                    {
+                        "text": "legitimate children inherit intestate succession",
+                        "answer_start": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "collided motorcycle acton massachusetts donald montrym arrested driving influence alcohol dui state court later dismissed dui charges massachusetts registrar motor vehicles suspended montryms drivers license ninety days montrym refused take breathalyzer test time arrest montrym filed classaction lawsuit federal district court alleging statute required drivers submit breathalyzer tests violated due process clause fourteenth amendment provide presuspension hearing district court found favor montrym ordered registrar return plaintiffs licenses registrar appealed directly supreme court",
+        "qas": []
+    }
+]
