@@ -19,16 +19,20 @@ QA: Legal Dataset
 Sentiment Analysis: Stanford IMDB Dataset
 
 ### Methodology 🎯
-Data Ingestion: web scrape, Kaggle/HF dataset imports
-Preprocessing: text normalization, stopword removal, punctuation removal, HTML tag removal
+Data Ingestion: Web scrape, Kaggle/HF dataset imports
+
+Preprocessing: Text normalization, Stopword removal, Punctuation removal, HTML tag removal
+
 Visualizations: Pie-Chart, Bar Graphs, Line Graphs, Word Cloud
+
 Transformers Used: BERT, RoBERTa, DistilBERT
+
 Statistical Models Used: Decision Tree and Random Forest
 
 ### Findings 📊
 - Manipulating the duplicate words within the data for Question answering helped the model avoid returning repetitive words within it's extracted answer.
 - RoBERTa had the highest F1 and EM scores for Question Answering. Then, DistilBERT and BERT, respectively.
-- Most to all of the cases were labelled with Negative for sentiment analysis.
+- Most cases were classified as Negative for sentiment analysis.
 - It was difficult for the IMDB trained transformers to conclude the case sentiment based on the words in the case text. This was due the high usage of negative words in the text. 
 
 #### TF-IDF
@@ -58,3 +62,13 @@ DistilBERT
 BERT
 
 ![BERT SA Results](images/bertsa.png)
+
+### Meet the Team 😎 
+    @JaidynGreen01 - BERT
+    @GustavoPlatas22 - RoBERTa
+    @OzielPlatas - RoBERTa
+    @RedShadow30 - DistilBERT
+
+[Project Workflow](https://drive.google.com/file/d/17SBYihxCSsiTUQqeIgyEdN30pzHwtLy6/view?usp=sharing)
+
+Created by @RedShadow30
