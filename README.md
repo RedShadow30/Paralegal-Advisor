@@ -11,6 +11,8 @@ Our goal was to minimize the overhead involved during legal research. We aim to 
 - Semantic Search: User provides case overview. Returns most similar past cases using MongoDB's vector search index.
 - Sentiment Analysis: Classifies a piece of text as positive or negative based on the words used. Positive label represents a won case and negative label represents a lost case.
 
+[Project Workflow](https://drive.google.com/file/d/17SBYihxCSsiTUQqeIgyEdN30pzHwtLy6/view?usp=sharing) - by @RedShadow30
+
 Bonus (Future Implementation):
 - Contextual Summarization: Examines a case to highlight key arguments established and reference to applicable laws. 
 
@@ -64,11 +66,10 @@ BERT
 ![BERT SA Results](images/bertsa.png)
 
 ### Meet the Team 😎 
-    @JaidynGreen01 - BERT
-    @GustavoPlatas22 - RoBERTa
-    @OzielPlatas - RoBERTa
-    @RedShadow30 - DistilBERT
 
-[Project Workflow](https://drive.google.com/file/d/17SBYihxCSsiTUQqeIgyEdN30pzHwtLy6/view?usp=sharing)
+@JaidynGreen01 - BERT
+@GustavoPlatas22 - RoBERTa
+@OzielPlatas - RoBERTa
+@RedShadow30 - DistilBERT
 
-Created by @RedShadow30
+### Thank You!
